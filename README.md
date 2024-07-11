@@ -1,4 +1,4 @@
-![Android Developer]([https://scontent.fdac139-1.fna.fbcdn.net/v/t31.18172-8/20988385_1631323356940402_6989457083066153545_o.jpg?stp=dst-jpg_p720x720&_nc_cat=103&ccb=1-7&_nc_sid=2a1932&_nc_eui2=AeHjQtWZ65pB9G4SHJ2kR3Ctctxdc03g3Cpy3F1zTeDcKoI5BbyZjevcDoyZ1vKigK-9PjMA66FrPrfncfW0OK0H&_nc_ohc=9HAvHOoq7dYQ7kNvgEF4YnM&_nc_ht=scontent.fdac139-1.fna&oh=00_AYB6BnYuckmzA7fHqpN7fyU6WyMHlB0OUGPVnsb8sBqLMA&oe=66B6D0AD](https://avatars.githubusercontent.com/u/17628768?v=4))
+![Android Developer](https://avatars.githubusercontent.com/u/17628768?v=4)
 
 ### Hi there 👋, my name is Azharul Islam
 #### Android Developer
