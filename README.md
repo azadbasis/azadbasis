@@ -1,6 +1,6 @@
 ![Android Developer](https://avatars.githubusercontent.com/u/17628768?v=4)
 
-### Hi there 👋, my name is Azharul Islam
+### Hi there 👋, I'm Azharul Islam
 #### Android Developer
 
 
