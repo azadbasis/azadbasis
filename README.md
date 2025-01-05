@@ -1,4 +1,5 @@
-![Android Developer](https://www.canva.com/design/DAGaj4vmaXM/7tP2cHmCil_DW38R_UgnVg/view?utm_content=DAGaj4vmaXM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h56a20e4bfb)
+![GitHub Banner](https://www.canva.com/design/DAGaj4vmaXM/7tP2cHmCil_DW38R_UgnVg/view?utm_content=DAGaj4vmaXM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h56a20e4bfb)
+
 
 ### Hi there 👋, I'm Azharul Islam
 #### Android Developer
