@@ -1,4 +1,5 @@
-![GitHub Banner](https://www.canva.com/design/DAGaj4vmaXM/7tP2cHmCil_DW38R_UgnVg/view?utm_content=DAGaj4vmaXM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h56a20e4bfb)
+![GitHub Banner](https://firebasestorage.googleapis.com/v0/b/private-ventures.appspot.com/o/specializations%2FBeige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner%20(1).png?alt=media&token=4b174111-78ae-4157-ad9d-e754734a8683)
+
 
 
 ### Hi there 👋, I'm Azharul Islam
